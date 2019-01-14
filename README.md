@@ -1,6 +1,3 @@
-# redux-react-udacity
-A Todo &amp; Goals page, which is a part of React Nanodegree course, to understand the concepts of redux.
-
 # Redux and React Udacity exercise
 
 This repo is a code-along with the second project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
